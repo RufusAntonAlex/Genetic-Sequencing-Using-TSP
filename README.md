@@ -1,4 +1,4 @@
-# GENETIC SEQUENCING USING THE TRAVELLING SALESMAN PROBLEM
+# Genetic Sequencing Using the Travelling Salesman Problem
 
 ## Aboout the Project
 
